@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Log" section_id="423c4536e9b380107f44cc2e5389f493" sys_domain="global" table="x_cdltd_loaner_req_loaner_request" version="3" view="ess">
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Log</caption>
+            <header>false</header>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-30 15:30:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>423c4536e9b380107f44cc2e5389f493</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Log</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">58d704fee9ff40107f44cc2e5389f451</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">58d704fee9ff40107f44cc2e5389f451</sys_scope>
+            <sys_update_name>sys_ui_section_423c4536e9b380107f44cc2e5389f493</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-30 15:30:13</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Self Service" name="ess">d02a3041082300107f447452aafab96f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

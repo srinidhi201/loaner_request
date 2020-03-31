@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="e35ea9b6e9f380107f44cc2e5389f465" sys_domain="global" table="sys_user" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-30 17:59:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>275ea9b6e9f380107f44cc2e5389f466</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sys_user" name="sys_user" sys_domain="global" view="bf3ea9b6e9f380107f44cc2e5389f4c2">e35ea9b6e9f380107f44cc2e5389f465</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="bf3ea9b6e9f380107f44cc2e5389f4c2">373ea9b6e9f380107f44cc2e5389f4c9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-30 17:59:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-30 17:59:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f5e6db6e9f380107f44cc2e5389f4f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sys_user" name="sys_user" sys_domain="global" view="bf3ea9b6e9f380107f44cc2e5389f4c2">e35ea9b6e9f380107f44cc2e5389f465</sys_ui_form>
+            <sys_ui_section caption="Request" display_value="Request" name="sys_user" sys_domain="global" view="bf3ea9b6e9f380107f44cc2e5389f4c2">eb5ea9b6e9f380107f44cc2e5389f466</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-30 17:59:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-30 18:02:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cbfe61f6e9f380107f44cc2e5389f4fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sys_user" name="sys_user" sys_domain="global" view="bf3ea9b6e9f380107f44cc2e5389f4c2">e35ea9b6e9f380107f44cc2e5389f465</sys_ui_form>
+            <sys_ui_section caption="Global" display_value="Global" name="sys_user" sys_domain="global" view="bf3ea9b6e9f380107f44cc2e5389f4c2">4bfe61f6e9f380107f44cc2e5389f4f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-30 18:02:07</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-30 17:59:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e35ea9b6e9f380107f44cc2e5389f465</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">58d704fee9ff40107f44cc2e5389f451</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">58d704fee9ff40107f44cc2e5389f451</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e35ea9b6e9f380107f44cc2e5389f465</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-30 17:59:25</sys_updated_on>
+            <sys_user/>
+            <view display_value="Loaner Request" name="loaner_request">bf3ea9b6e9f380107f44cc2e5389f4c2</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
