@@ -17,16 +17,16 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-30 15:04:58</sys_created_on>
+            <sys_created_on>2020-04-01 13:35:53</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>48768172e9b380107f44cc2e5389f4c9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>fe350f5fe9b7c0107f44cc2e5389f492</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_cdltd_loaner_req_loaner_request" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">c1a4c132e9b380107f44cc2e5389f465</sys_ui_form>
-            <sys_ui_section caption="Log" display_value="Log" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">c8768172e9b380107f44cc2e5389f483</sys_ui_section>
+            <sys_ui_section caption="Remainder" display_value="Remainder" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">32350f5fe9b7c0107f44cc2e5389f482</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-30 15:04:58</sys_updated_on>
+            <sys_updated_on>2020-04-01 13:35:53</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>2</position>
@@ -34,13 +34,27 @@
             <sys_created_on>2020-03-30 15:04:58</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>48768172e9b380107f44cc2e5389f4c9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_cdltd_loaner_req_loaner_request" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">c1a4c132e9b380107f44cc2e5389f465</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">c8768172e9b380107f44cc2e5389f483</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-01 13:35:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-30 15:04:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>88768172e9b380107f44cc2e5389f4cc</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_cdltd_loaner_req_loaner_request" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">c1a4c132e9b380107f44cc2e5389f465</sys_ui_form>
             <sys_ui_section caption="Statistics" display_value="Statistics" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">44768172e9b380107f44cc2e5389f484</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-30 15:04:58</sys_updated_on>
+            <sys_updated_on>2020-04-01 13:35:53</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_cdltd_loaner_req_loaner_request</name>

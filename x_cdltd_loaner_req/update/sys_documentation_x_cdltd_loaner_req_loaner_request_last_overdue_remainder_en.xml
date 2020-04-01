@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="last_overdue_remainder" label="OverdueRemainder" language="en" table="x_cdltd_loaner_req_loaner_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>last_overdue_remainder</element>
+            <help/>
+            <hint/>
+            <label>OverdueRemainder</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <plural>OverdueRemainders</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-01 13:35:53</sys_created_on>
+            <sys_id>72350f5fe9b7c0107f44cc2e5389f4a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>OverdueRemainder</sys_name>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">58d704fee9ff40107f44cc2e5389f451</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">58d704fee9ff40107f44cc2e5389f451</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_loaner_req_loaner_request_last_overdue_remainder_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-01 13:35:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

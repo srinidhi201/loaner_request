@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Remainder" section_id="32350f5fe9b7c0107f44cc2e5389f482" sys_domain="global" table="x_cdltd_loaner_req_loaner_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pick_up_remainder</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-01 13:35:54</sys_created_on>
+            <sys_id>43350f5fe9b7c0107f44cc2e5389f4e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Remainder" display_value="Remainder" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">32350f5fe9b7c0107f44cc2e5389f482</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-01 13:35:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>overdue_count</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-01 13:35:54</sys_created_on>
+            <sys_id>c3350f5fe9b7c0107f44cc2e5389f4e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Remainder" display_value="Remainder" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">32350f5fe9b7c0107f44cc2e5389f482</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-01 13:35:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-01 13:35:54</sys_created_on>
+            <sys_id>47350f5fe9b7c0107f44cc2e5389f4e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Remainder" display_value="Remainder" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">32350f5fe9b7c0107f44cc2e5389f482</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-01 13:35:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>Last_overdue_remainder</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-01 13:35:54</sys_created_on>
+            <sys_id>c7350f5fe9b7c0107f44cc2e5389f4e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Remainder" display_value="Remainder" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">32350f5fe9b7c0107f44cc2e5389f482</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-01 13:35:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>return_remainder</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-01 13:35:54</sys_created_on>
+            <sys_id>4b350f5fe9b7c0107f44cc2e5389f4e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Remainder" display_value="Remainder" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">32350f5fe9b7c0107f44cc2e5389f482</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-01 13:35:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Remainder</caption>
+            <header>false</header>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-01 13:35:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32350f5fe9b7c0107f44cc2e5389f482</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Remainder</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">58d704fee9ff40107f44cc2e5389f451</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">58d704fee9ff40107f44cc2e5389f451</sys_scope>
+            <sys_update_name>sys_ui_section_32350f5fe9b7c0107f44cc2e5389f482</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-01 13:35:53</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

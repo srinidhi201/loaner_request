@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Basic flow for assigning work on Loaner Laptop</description>
+        <internal_name>loaner_laptop</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Loaner Laptop</name>
+        <natlang/>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-31 17:02:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c8eae2cbe97f80107f44cc2e5389f468</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Loaner Laptop</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">58d704fee9ff40107f44cc2e5389f451</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">58d704fee9ff40107f44cc2e5389f451</sys_scope>
+        <sys_update_name>sys_hub_flow_c8eae2cbe97f80107f44cc2e5389f468</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-01 09:46:01</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=c8eae2cbe97f80107f44cc2e5389f468"/>
+    <sys_variable_value action="delete_multiple" query="document_key=c8eae2cbe97f80107f44cc2e5389f468"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=c8eae2cbe97f80107f44cc2e5389f468^sys_idNOT IN00eaeecbe97f80107f44cc2e5389f4c2"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>c8eae2cbe97f80107f44cc2e5389f468</id>
+        <name>Loaner Laptop</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-31 17:02:15</sys_created_on>
+        <sys_id>00eaeecbe97f80107f44cc2e5389f4c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-31 17:02:15</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>
